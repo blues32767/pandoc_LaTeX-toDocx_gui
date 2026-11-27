@@ -8,6 +8,12 @@
 
 ---
 
+## 🖼️ 程式畫面預覽
+
+![Pandoc TeX 轉 Word 批次轉換工具介面預覽](https://github.com/blues32767/pandoc_LaTeX-toDocx_gui/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-11-27%20150415.png?raw=true)
+
+---
+
 ## ✨ 功能特色
 
 * **免指令全圖形介面**：無需開啟 CMD 或 PowerShell 輸入繁瑣參數，點擊按鈕即可完成設定與轉檔。
